@@ -1,10 +1,10 @@
 # Overview  
 
-Please see blog site https://devbuildit.com/2023/06/15/aws-lambda-deployment-via-ci-cd-pipeline-and-terraform/ for detailed explaination of this repo contents.
+Please see blog site https://devbuildit.com/2024/03/02/machine-learning-introduction/ for detailed explaination of this repo contents.
 
 
 # Installation  
-This repo (and associated blog) will create CI/CD pipeline and deploy a lambda function.
+This repo (and associated blog) will create an environment to learn some Machine Learning concepts.  We will also deploy a CI/CD pipeline which will help us to deploy a Lambda function for testing our model.
 
 Two stage installation (see below):
 
