@@ -4,7 +4,7 @@ Please see blog site https://devbuildit.com/2024/03/02/machine-learning-introduc
 
 
 # Installation  
-This repo (and associated blog) will create an environment to learn some Machine Learning concepts.  We will also deploy a CI/CD pipeline which will help us to deploy a Lambda function for testing our model.
+This repo (and associated blog) will create an environment to learn Machine Learning concepts using Amazon SageMaker.  We will also deploy a CI/CD pipeline which will help us to deploy a Lambda function for testing our model.
 
 Two stage installation (see below):
 
